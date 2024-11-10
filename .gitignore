@@ -1,0 +1,22 @@
+# .gitignore
+node_modules
+.env
+coverage
+coverage.json
+typechain-types
+typechain
+
+# Hardhat files
+cache
+artifacts
+deployments
+
+# IDE files
+.vscode
+.idea
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
