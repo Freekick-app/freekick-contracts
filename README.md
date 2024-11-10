@@ -13,7 +13,6 @@ npx hardhat ignition deploy ./ignition/modules/Lock.ts
 ```
 
 # Deposit_Withdrawal_SmartContract
-Bank smart contract for chesslers, where you can deposit tokens to play on chesslers.com
 
 
 ## Setting up the project
